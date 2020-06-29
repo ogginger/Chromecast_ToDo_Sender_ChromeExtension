@@ -1,0 +1,9 @@
+ {
+    "name": "ToDo Sender",
+    "version": "1.1",
+    "description": "",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+  }
